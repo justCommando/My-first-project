@@ -1,6 +1,6 @@
 print("iron man")
 
-print("SUDOOOOOOOO")
+print("bruh")
 
 
-print("Bruh what is your name")
+print("what is your name")
